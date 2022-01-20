@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/djlee/Tutors/hlm/.idea'
+let g:netrw_dirhist_7='/Users/djlee/KSL/test/src/main/java/com/example/test'
+let g:netrw_dirhist_6='/Users/djlee/KSL/test/src/main/java/com/example'
+let g:netrw_dirhist_5='/Users/djlee/KSL/test/src/main/java/com'
+let g:netrw_dirhist_4='/Users/djlee/KSL/test/src/main/java'
+let g:netrw_dirhist_3='/Users/djlee/KSL/test/src/main'
+let g:netrw_dirhist_2='/Users/djlee/KSL/test/src'
+let g:netrw_dirhist_1='/Users/djlee/Tutors/getting-started-master'
+let g:netrw_dirhist_0='/Users/djlee/Tutors/getting-started-master/docs'
+let g:netrw_dirhist_9='/Users/djlee/Tutors/getting-started-master/docs/tutorial'
